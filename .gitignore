@@ -13,4 +13,6 @@
 *.smc
 *.sfc
 *.n64
+*.bin
+*.BIN
 
